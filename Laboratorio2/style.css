@@ -44,6 +44,10 @@ header {
 }
 
 
+.contact{
+  list-style: none;
+}
+
 .language{
   list-style: none;
   text-align: center;
